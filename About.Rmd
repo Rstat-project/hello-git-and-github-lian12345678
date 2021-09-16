@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: "王笠安"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+新竹
 
 - 我決定來這裡的動機？
 
