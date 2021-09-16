@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我決定來這裡的動機？
 
-NULL
+學習新事物和新工具
 
 - 我對這門課的期望？
 
-NULL
+得到學分
